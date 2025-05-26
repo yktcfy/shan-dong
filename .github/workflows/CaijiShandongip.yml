@@ -1,4 +1,4 @@
-name: CaijiHunanip
+name: CaijiShandongip
 
 on:
   schedule:
@@ -27,7 +27,7 @@ jobs:
       - name: 获取源
         run: |
           cd $GITHUB_WORKSPACE
-          python ./CaijiHunanip.py
+          python ./CaijiShandongip.py
           
       - name: Install Dependencies
         run: |
@@ -38,8 +38,8 @@ jobs:
         run: |
           cd $GITHUB_WORKSPACE
           cat zubo.txt > zubo_bf.txt
-          bash ./CaijiHunanip.sh
-          cat txt/Hunan_dianxin.txt > zubo.txt
+          bash ./CaijiShandongip.sh
+          cat txt/Shandong_dianxin.txt > zubo.txt
           
       - name: 更新源
         run: |
