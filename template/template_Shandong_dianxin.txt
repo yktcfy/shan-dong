@@ -72,8 +72,6 @@ http://ipipip/rtp/239.21.1.244:5002
 http://ipipip/rtp/239.21.1.174:5002
 #EXTINF:-1 tvg-id="邹城综合" tvg-name="邹城综合" tvg-logo="https://www.yangfeiyue.cn/tv/邹城综合.png" group-title="卫视高清",邹城综合
 http://ipipip/rtp/239.21.1.185:5002
-#EXTINF:-1 tvg-id="郓城综合" tvg-name="郓城综合" tvg-logo="https://www.yangfeiyue.cn/tv/郓城综合.png" group-title="卫视高清",郓城综合
-http://ipipip/rtp/239.21.1.251:5002
 #EXTINF:-1 tvg-id="阳信新闻综合" tvg-name="阳信新闻综合" tvg-logo="https://www.yangfeiyue.cn/tv/阳信新闻综合.png" group-title="卫视高清",阳信新闻综合
 http://ipipip/rtp/239.21.1.252:5002
 #EXTINF:-1 tvg-id="陵城综合" tvg-name="陵城综合" tvg-logo="https://www.yangfeiyue.cn/tv/陵城综合.png" group-title="卫视高清",陵城综合
