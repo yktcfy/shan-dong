@@ -29,6 +29,18 @@ http://113.120.46.243:8123/rtp/239.21.1.143:5002
 http://113.120.46.243:8123/rtp/239.21.1.77:5002
 #EXTINF:-1 tvg-id="潍坊经济生活" tvg-name="潍坊经济生活" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊经济生活.png" group-title="卫视高清",潍坊经济生活
 http://113.120.46.243:8123/rtp/239.21.1.78:5002
+#EXTINF:-1 tvg-id="潍坊影视综艺" tvg-name="潍坊影视综艺" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊影视综艺.png" group-title="卫视高清",潍坊影视综艺
+http://113.120.46.243:8123/rtp/239.21.2.88:5002
+#EXTINF:-1 tvg-id="潍坊高新区" tvg-name="潍坊高新区" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊高新区.png" group-title="卫视高清",潍坊高新区
+http://113.120.46.243:8123/rtp/239.21.2.131:5002
+#EXTINF:-1 tvg-id="泰山综合" tvg-name="泰山综合" tvg-logo="https://www.yangfeiyue.cn/tv/泰山综合.png" group-title="卫视高清",泰山综合
+http://113.120.46.243:8123/rtp/239.21.2.147:5002
+#EXTINF:-1 tvg-id="鱼台综合" tvg-name="鱼台综合" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台综合.png" group-title="卫视高清",鱼台综合
+http://113.120.46.243:8123/rtp/239.21.2.134:5002
+#EXTINF:-1 tvg-id="鱼台生活" tvg-name="鱼台生活" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台生活.png" group-title="卫视高清",鱼台生活
+http://113.120.46.243:8123/rtp/239.21.2.135:5002
+#EXTINF:-1 tvg-id="嘉祥综合" tvg-name="嘉祥综合" tvg-logo="https://www.yangfeiyue.cn/tv/嘉祥综合.png" group-title="卫视高清",嘉祥综合
+http://113.120.46.243:8123/rtp/239.21.2.84:5002
 #EXTINF:-1 tvg-id="东平综合" tvg-name="东平综合" tvg-logo="https://www.yangfeiyue.cn/tv/东平综合.png" group-title="卫视高清",东平综合
 http://113.120.46.243:8123/rtp/239.21.1.216:5002
 #EXTINF:-1 tvg-id="乳山综合" tvg-name="乳山综合" tvg-logo="https://www.yangfeiyue.cn/tv/乳山综合.png" group-title="卫视高清",乳山综合
@@ -159,6 +171,18 @@ http://113.128.132.161:8688/rtp/239.21.1.143:5002
 http://113.128.132.161:8688/rtp/239.21.1.77:5002
 #EXTINF:-1 tvg-id="潍坊经济生活" tvg-name="潍坊经济生活" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊经济生活.png" group-title="卫视高清",潍坊经济生活
 http://113.128.132.161:8688/rtp/239.21.1.78:5002
+#EXTINF:-1 tvg-id="潍坊影视综艺" tvg-name="潍坊影视综艺" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊影视综艺.png" group-title="卫视高清",潍坊影视综艺
+http://113.128.132.161:8688/rtp/239.21.2.88:5002
+#EXTINF:-1 tvg-id="潍坊高新区" tvg-name="潍坊高新区" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊高新区.png" group-title="卫视高清",潍坊高新区
+http://113.128.132.161:8688/rtp/239.21.2.131:5002
+#EXTINF:-1 tvg-id="泰山综合" tvg-name="泰山综合" tvg-logo="https://www.yangfeiyue.cn/tv/泰山综合.png" group-title="卫视高清",泰山综合
+http://113.128.132.161:8688/rtp/239.21.2.147:5002
+#EXTINF:-1 tvg-id="鱼台综合" tvg-name="鱼台综合" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台综合.png" group-title="卫视高清",鱼台综合
+http://113.128.132.161:8688/rtp/239.21.2.134:5002
+#EXTINF:-1 tvg-id="鱼台生活" tvg-name="鱼台生活" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台生活.png" group-title="卫视高清",鱼台生活
+http://113.128.132.161:8688/rtp/239.21.2.135:5002
+#EXTINF:-1 tvg-id="嘉祥综合" tvg-name="嘉祥综合" tvg-logo="https://www.yangfeiyue.cn/tv/嘉祥综合.png" group-title="卫视高清",嘉祥综合
+http://113.128.132.161:8688/rtp/239.21.2.84:5002
 #EXTINF:-1 tvg-id="东平综合" tvg-name="东平综合" tvg-logo="https://www.yangfeiyue.cn/tv/东平综合.png" group-title="卫视高清",东平综合
 http://113.128.132.161:8688/rtp/239.21.1.216:5002
 #EXTINF:-1 tvg-id="乳山综合" tvg-name="乳山综合" tvg-logo="https://www.yangfeiyue.cn/tv/乳山综合.png" group-title="卫视高清",乳山综合
@@ -289,6 +313,18 @@ http://122.5.220.58:4022/rtp/239.21.1.143:5002
 http://122.5.220.58:4022/rtp/239.21.1.77:5002
 #EXTINF:-1 tvg-id="潍坊经济生活" tvg-name="潍坊经济生活" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊经济生活.png" group-title="卫视高清",潍坊经济生活
 http://122.5.220.58:4022/rtp/239.21.1.78:5002
+#EXTINF:-1 tvg-id="潍坊影视综艺" tvg-name="潍坊影视综艺" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊影视综艺.png" group-title="卫视高清",潍坊影视综艺
+http://122.5.220.58:4022/rtp/239.21.2.88:5002
+#EXTINF:-1 tvg-id="潍坊高新区" tvg-name="潍坊高新区" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊高新区.png" group-title="卫视高清",潍坊高新区
+http://122.5.220.58:4022/rtp/239.21.2.131:5002
+#EXTINF:-1 tvg-id="泰山综合" tvg-name="泰山综合" tvg-logo="https://www.yangfeiyue.cn/tv/泰山综合.png" group-title="卫视高清",泰山综合
+http://122.5.220.58:4022/rtp/239.21.2.147:5002
+#EXTINF:-1 tvg-id="鱼台综合" tvg-name="鱼台综合" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台综合.png" group-title="卫视高清",鱼台综合
+http://122.5.220.58:4022/rtp/239.21.2.134:5002
+#EXTINF:-1 tvg-id="鱼台生活" tvg-name="鱼台生活" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台生活.png" group-title="卫视高清",鱼台生活
+http://122.5.220.58:4022/rtp/239.21.2.135:5002
+#EXTINF:-1 tvg-id="嘉祥综合" tvg-name="嘉祥综合" tvg-logo="https://www.yangfeiyue.cn/tv/嘉祥综合.png" group-title="卫视高清",嘉祥综合
+http://122.5.220.58:4022/rtp/239.21.2.84:5002
 #EXTINF:-1 tvg-id="东平综合" tvg-name="东平综合" tvg-logo="https://www.yangfeiyue.cn/tv/东平综合.png" group-title="卫视高清",东平综合
 http://122.5.220.58:4022/rtp/239.21.1.216:5002
 #EXTINF:-1 tvg-id="乳山综合" tvg-name="乳山综合" tvg-logo="https://www.yangfeiyue.cn/tv/乳山综合.png" group-title="卫视高清",乳山综合
@@ -419,6 +455,18 @@ http://123.170.254.182:58000/rtp/239.21.1.143:5002
 http://123.170.254.182:58000/rtp/239.21.1.77:5002
 #EXTINF:-1 tvg-id="潍坊经济生活" tvg-name="潍坊经济生活" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊经济生活.png" group-title="卫视高清",潍坊经济生活
 http://123.170.254.182:58000/rtp/239.21.1.78:5002
+#EXTINF:-1 tvg-id="潍坊影视综艺" tvg-name="潍坊影视综艺" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊影视综艺.png" group-title="卫视高清",潍坊影视综艺
+http://123.170.254.182:58000/rtp/239.21.2.88:5002
+#EXTINF:-1 tvg-id="潍坊高新区" tvg-name="潍坊高新区" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊高新区.png" group-title="卫视高清",潍坊高新区
+http://123.170.254.182:58000/rtp/239.21.2.131:5002
+#EXTINF:-1 tvg-id="泰山综合" tvg-name="泰山综合" tvg-logo="https://www.yangfeiyue.cn/tv/泰山综合.png" group-title="卫视高清",泰山综合
+http://123.170.254.182:58000/rtp/239.21.2.147:5002
+#EXTINF:-1 tvg-id="鱼台综合" tvg-name="鱼台综合" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台综合.png" group-title="卫视高清",鱼台综合
+http://123.170.254.182:58000/rtp/239.21.2.134:5002
+#EXTINF:-1 tvg-id="鱼台生活" tvg-name="鱼台生活" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台生活.png" group-title="卫视高清",鱼台生活
+http://123.170.254.182:58000/rtp/239.21.2.135:5002
+#EXTINF:-1 tvg-id="嘉祥综合" tvg-name="嘉祥综合" tvg-logo="https://www.yangfeiyue.cn/tv/嘉祥综合.png" group-title="卫视高清",嘉祥综合
+http://123.170.254.182:58000/rtp/239.21.2.84:5002
 #EXTINF:-1 tvg-id="东平综合" tvg-name="东平综合" tvg-logo="https://www.yangfeiyue.cn/tv/东平综合.png" group-title="卫视高清",东平综合
 http://123.170.254.182:58000/rtp/239.21.1.216:5002
 #EXTINF:-1 tvg-id="乳山综合" tvg-name="乳山综合" tvg-logo="https://www.yangfeiyue.cn/tv/乳山综合.png" group-title="卫视高清",乳山综合
@@ -549,6 +597,18 @@ http://140.250.221.14:4022/rtp/239.21.1.143:5002
 http://140.250.221.14:4022/rtp/239.21.1.77:5002
 #EXTINF:-1 tvg-id="潍坊经济生活" tvg-name="潍坊经济生活" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊经济生活.png" group-title="卫视高清",潍坊经济生活
 http://140.250.221.14:4022/rtp/239.21.1.78:5002
+#EXTINF:-1 tvg-id="潍坊影视综艺" tvg-name="潍坊影视综艺" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊影视综艺.png" group-title="卫视高清",潍坊影视综艺
+http://140.250.221.14:4022/rtp/239.21.2.88:5002
+#EXTINF:-1 tvg-id="潍坊高新区" tvg-name="潍坊高新区" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊高新区.png" group-title="卫视高清",潍坊高新区
+http://140.250.221.14:4022/rtp/239.21.2.131:5002
+#EXTINF:-1 tvg-id="泰山综合" tvg-name="泰山综合" tvg-logo="https://www.yangfeiyue.cn/tv/泰山综合.png" group-title="卫视高清",泰山综合
+http://140.250.221.14:4022/rtp/239.21.2.147:5002
+#EXTINF:-1 tvg-id="鱼台综合" tvg-name="鱼台综合" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台综合.png" group-title="卫视高清",鱼台综合
+http://140.250.221.14:4022/rtp/239.21.2.134:5002
+#EXTINF:-1 tvg-id="鱼台生活" tvg-name="鱼台生活" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台生活.png" group-title="卫视高清",鱼台生活
+http://140.250.221.14:4022/rtp/239.21.2.135:5002
+#EXTINF:-1 tvg-id="嘉祥综合" tvg-name="嘉祥综合" tvg-logo="https://www.yangfeiyue.cn/tv/嘉祥综合.png" group-title="卫视高清",嘉祥综合
+http://140.250.221.14:4022/rtp/239.21.2.84:5002
 #EXTINF:-1 tvg-id="东平综合" tvg-name="东平综合" tvg-logo="https://www.yangfeiyue.cn/tv/东平综合.png" group-title="卫视高清",东平综合
 http://140.250.221.14:4022/rtp/239.21.1.216:5002
 #EXTINF:-1 tvg-id="乳山综合" tvg-name="乳山综合" tvg-logo="https://www.yangfeiyue.cn/tv/乳山综合.png" group-title="卫视高清",乳山综合
@@ -679,6 +739,18 @@ http://144.123.77.113:8188/rtp/239.21.1.143:5002
 http://144.123.77.113:8188/rtp/239.21.1.77:5002
 #EXTINF:-1 tvg-id="潍坊经济生活" tvg-name="潍坊经济生活" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊经济生活.png" group-title="卫视高清",潍坊经济生活
 http://144.123.77.113:8188/rtp/239.21.1.78:5002
+#EXTINF:-1 tvg-id="潍坊影视综艺" tvg-name="潍坊影视综艺" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊影视综艺.png" group-title="卫视高清",潍坊影视综艺
+http://144.123.77.113:8188/rtp/239.21.2.88:5002
+#EXTINF:-1 tvg-id="潍坊高新区" tvg-name="潍坊高新区" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊高新区.png" group-title="卫视高清",潍坊高新区
+http://144.123.77.113:8188/rtp/239.21.2.131:5002
+#EXTINF:-1 tvg-id="泰山综合" tvg-name="泰山综合" tvg-logo="https://www.yangfeiyue.cn/tv/泰山综合.png" group-title="卫视高清",泰山综合
+http://144.123.77.113:8188/rtp/239.21.2.147:5002
+#EXTINF:-1 tvg-id="鱼台综合" tvg-name="鱼台综合" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台综合.png" group-title="卫视高清",鱼台综合
+http://144.123.77.113:8188/rtp/239.21.2.134:5002
+#EXTINF:-1 tvg-id="鱼台生活" tvg-name="鱼台生活" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台生活.png" group-title="卫视高清",鱼台生活
+http://144.123.77.113:8188/rtp/239.21.2.135:5002
+#EXTINF:-1 tvg-id="嘉祥综合" tvg-name="嘉祥综合" tvg-logo="https://www.yangfeiyue.cn/tv/嘉祥综合.png" group-title="卫视高清",嘉祥综合
+http://144.123.77.113:8188/rtp/239.21.2.84:5002
 #EXTINF:-1 tvg-id="东平综合" tvg-name="东平综合" tvg-logo="https://www.yangfeiyue.cn/tv/东平综合.png" group-title="卫视高清",东平综合
 http://144.123.77.113:8188/rtp/239.21.1.216:5002
 #EXTINF:-1 tvg-id="乳山综合" tvg-name="乳山综合" tvg-logo="https://www.yangfeiyue.cn/tv/乳山综合.png" group-title="卫视高清",乳山综合
@@ -809,6 +881,18 @@ http://144.255.17.240:6688/rtp/239.21.1.143:5002
 http://144.255.17.240:6688/rtp/239.21.1.77:5002
 #EXTINF:-1 tvg-id="潍坊经济生活" tvg-name="潍坊经济生活" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊经济生活.png" group-title="卫视高清",潍坊经济生活
 http://144.255.17.240:6688/rtp/239.21.1.78:5002
+#EXTINF:-1 tvg-id="潍坊影视综艺" tvg-name="潍坊影视综艺" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊影视综艺.png" group-title="卫视高清",潍坊影视综艺
+http://144.255.17.240:6688/rtp/239.21.2.88:5002
+#EXTINF:-1 tvg-id="潍坊高新区" tvg-name="潍坊高新区" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊高新区.png" group-title="卫视高清",潍坊高新区
+http://144.255.17.240:6688/rtp/239.21.2.131:5002
+#EXTINF:-1 tvg-id="泰山综合" tvg-name="泰山综合" tvg-logo="https://www.yangfeiyue.cn/tv/泰山综合.png" group-title="卫视高清",泰山综合
+http://144.255.17.240:6688/rtp/239.21.2.147:5002
+#EXTINF:-1 tvg-id="鱼台综合" tvg-name="鱼台综合" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台综合.png" group-title="卫视高清",鱼台综合
+http://144.255.17.240:6688/rtp/239.21.2.134:5002
+#EXTINF:-1 tvg-id="鱼台生活" tvg-name="鱼台生活" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台生活.png" group-title="卫视高清",鱼台生活
+http://144.255.17.240:6688/rtp/239.21.2.135:5002
+#EXTINF:-1 tvg-id="嘉祥综合" tvg-name="嘉祥综合" tvg-logo="https://www.yangfeiyue.cn/tv/嘉祥综合.png" group-title="卫视高清",嘉祥综合
+http://144.255.17.240:6688/rtp/239.21.2.84:5002
 #EXTINF:-1 tvg-id="东平综合" tvg-name="东平综合" tvg-logo="https://www.yangfeiyue.cn/tv/东平综合.png" group-title="卫视高清",东平综合
 http://144.255.17.240:6688/rtp/239.21.1.216:5002
 #EXTINF:-1 tvg-id="乳山综合" tvg-name="乳山综合" tvg-logo="https://www.yangfeiyue.cn/tv/乳山综合.png" group-title="卫视高清",乳山综合
@@ -939,6 +1023,18 @@ http://144.255.44.238:4022/rtp/239.21.1.143:5002
 http://144.255.44.238:4022/rtp/239.21.1.77:5002
 #EXTINF:-1 tvg-id="潍坊经济生活" tvg-name="潍坊经济生活" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊经济生活.png" group-title="卫视高清",潍坊经济生活
 http://144.255.44.238:4022/rtp/239.21.1.78:5002
+#EXTINF:-1 tvg-id="潍坊影视综艺" tvg-name="潍坊影视综艺" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊影视综艺.png" group-title="卫视高清",潍坊影视综艺
+http://144.255.44.238:4022/rtp/239.21.2.88:5002
+#EXTINF:-1 tvg-id="潍坊高新区" tvg-name="潍坊高新区" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊高新区.png" group-title="卫视高清",潍坊高新区
+http://144.255.44.238:4022/rtp/239.21.2.131:5002
+#EXTINF:-1 tvg-id="泰山综合" tvg-name="泰山综合" tvg-logo="https://www.yangfeiyue.cn/tv/泰山综合.png" group-title="卫视高清",泰山综合
+http://144.255.44.238:4022/rtp/239.21.2.147:5002
+#EXTINF:-1 tvg-id="鱼台综合" tvg-name="鱼台综合" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台综合.png" group-title="卫视高清",鱼台综合
+http://144.255.44.238:4022/rtp/239.21.2.134:5002
+#EXTINF:-1 tvg-id="鱼台生活" tvg-name="鱼台生活" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台生活.png" group-title="卫视高清",鱼台生活
+http://144.255.44.238:4022/rtp/239.21.2.135:5002
+#EXTINF:-1 tvg-id="嘉祥综合" tvg-name="嘉祥综合" tvg-logo="https://www.yangfeiyue.cn/tv/嘉祥综合.png" group-title="卫视高清",嘉祥综合
+http://144.255.44.238:4022/rtp/239.21.2.84:5002
 #EXTINF:-1 tvg-id="东平综合" tvg-name="东平综合" tvg-logo="https://www.yangfeiyue.cn/tv/东平综合.png" group-title="卫视高清",东平综合
 http://144.255.44.238:4022/rtp/239.21.1.216:5002
 #EXTINF:-1 tvg-id="乳山综合" tvg-name="乳山综合" tvg-logo="https://www.yangfeiyue.cn/tv/乳山综合.png" group-title="卫视高清",乳山综合
@@ -1069,6 +1165,18 @@ http://144.255.44.61:7788/rtp/239.21.1.143:5002
 http://144.255.44.61:7788/rtp/239.21.1.77:5002
 #EXTINF:-1 tvg-id="潍坊经济生活" tvg-name="潍坊经济生活" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊经济生活.png" group-title="卫视高清",潍坊经济生活
 http://144.255.44.61:7788/rtp/239.21.1.78:5002
+#EXTINF:-1 tvg-id="潍坊影视综艺" tvg-name="潍坊影视综艺" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊影视综艺.png" group-title="卫视高清",潍坊影视综艺
+http://144.255.44.61:7788/rtp/239.21.2.88:5002
+#EXTINF:-1 tvg-id="潍坊高新区" tvg-name="潍坊高新区" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊高新区.png" group-title="卫视高清",潍坊高新区
+http://144.255.44.61:7788/rtp/239.21.2.131:5002
+#EXTINF:-1 tvg-id="泰山综合" tvg-name="泰山综合" tvg-logo="https://www.yangfeiyue.cn/tv/泰山综合.png" group-title="卫视高清",泰山综合
+http://144.255.44.61:7788/rtp/239.21.2.147:5002
+#EXTINF:-1 tvg-id="鱼台综合" tvg-name="鱼台综合" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台综合.png" group-title="卫视高清",鱼台综合
+http://144.255.44.61:7788/rtp/239.21.2.134:5002
+#EXTINF:-1 tvg-id="鱼台生活" tvg-name="鱼台生活" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台生活.png" group-title="卫视高清",鱼台生活
+http://144.255.44.61:7788/rtp/239.21.2.135:5002
+#EXTINF:-1 tvg-id="嘉祥综合" tvg-name="嘉祥综合" tvg-logo="https://www.yangfeiyue.cn/tv/嘉祥综合.png" group-title="卫视高清",嘉祥综合
+http://144.255.44.61:7788/rtp/239.21.2.84:5002
 #EXTINF:-1 tvg-id="东平综合" tvg-name="东平综合" tvg-logo="https://www.yangfeiyue.cn/tv/东平综合.png" group-title="卫视高清",东平综合
 http://144.255.44.61:7788/rtp/239.21.1.216:5002
 #EXTINF:-1 tvg-id="乳山综合" tvg-name="乳山综合" tvg-logo="https://www.yangfeiyue.cn/tv/乳山综合.png" group-title="卫视高清",乳山综合
@@ -1199,6 +1307,18 @@ http://182.34.210.108:8188/rtp/239.21.1.143:5002
 http://182.34.210.108:8188/rtp/239.21.1.77:5002
 #EXTINF:-1 tvg-id="潍坊经济生活" tvg-name="潍坊经济生活" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊经济生活.png" group-title="卫视高清",潍坊经济生活
 http://182.34.210.108:8188/rtp/239.21.1.78:5002
+#EXTINF:-1 tvg-id="潍坊影视综艺" tvg-name="潍坊影视综艺" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊影视综艺.png" group-title="卫视高清",潍坊影视综艺
+http://182.34.210.108:8188/rtp/239.21.2.88:5002
+#EXTINF:-1 tvg-id="潍坊高新区" tvg-name="潍坊高新区" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊高新区.png" group-title="卫视高清",潍坊高新区
+http://182.34.210.108:8188/rtp/239.21.2.131:5002
+#EXTINF:-1 tvg-id="泰山综合" tvg-name="泰山综合" tvg-logo="https://www.yangfeiyue.cn/tv/泰山综合.png" group-title="卫视高清",泰山综合
+http://182.34.210.108:8188/rtp/239.21.2.147:5002
+#EXTINF:-1 tvg-id="鱼台综合" tvg-name="鱼台综合" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台综合.png" group-title="卫视高清",鱼台综合
+http://182.34.210.108:8188/rtp/239.21.2.134:5002
+#EXTINF:-1 tvg-id="鱼台生活" tvg-name="鱼台生活" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台生活.png" group-title="卫视高清",鱼台生活
+http://182.34.210.108:8188/rtp/239.21.2.135:5002
+#EXTINF:-1 tvg-id="嘉祥综合" tvg-name="嘉祥综合" tvg-logo="https://www.yangfeiyue.cn/tv/嘉祥综合.png" group-title="卫视高清",嘉祥综合
+http://182.34.210.108:8188/rtp/239.21.2.84:5002
 #EXTINF:-1 tvg-id="东平综合" tvg-name="东平综合" tvg-logo="https://www.yangfeiyue.cn/tv/东平综合.png" group-title="卫视高清",东平综合
 http://182.34.210.108:8188/rtp/239.21.1.216:5002
 #EXTINF:-1 tvg-id="乳山综合" tvg-name="乳山综合" tvg-logo="https://www.yangfeiyue.cn/tv/乳山综合.png" group-title="卫视高清",乳山综合
@@ -1329,6 +1449,18 @@ http://182.35.112.46:4000/rtp/239.21.1.143:5002
 http://182.35.112.46:4000/rtp/239.21.1.77:5002
 #EXTINF:-1 tvg-id="潍坊经济生活" tvg-name="潍坊经济生活" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊经济生活.png" group-title="卫视高清",潍坊经济生活
 http://182.35.112.46:4000/rtp/239.21.1.78:5002
+#EXTINF:-1 tvg-id="潍坊影视综艺" tvg-name="潍坊影视综艺" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊影视综艺.png" group-title="卫视高清",潍坊影视综艺
+http://182.35.112.46:4000/rtp/239.21.2.88:5002
+#EXTINF:-1 tvg-id="潍坊高新区" tvg-name="潍坊高新区" tvg-logo="https://www.yangfeiyue.cn/tv/潍坊高新区.png" group-title="卫视高清",潍坊高新区
+http://182.35.112.46:4000/rtp/239.21.2.131:5002
+#EXTINF:-1 tvg-id="泰山综合" tvg-name="泰山综合" tvg-logo="https://www.yangfeiyue.cn/tv/泰山综合.png" group-title="卫视高清",泰山综合
+http://182.35.112.46:4000/rtp/239.21.2.147:5002
+#EXTINF:-1 tvg-id="鱼台综合" tvg-name="鱼台综合" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台综合.png" group-title="卫视高清",鱼台综合
+http://182.35.112.46:4000/rtp/239.21.2.134:5002
+#EXTINF:-1 tvg-id="鱼台生活" tvg-name="鱼台生活" tvg-logo="https://www.yangfeiyue.cn/tv/鱼台生活.png" group-title="卫视高清",鱼台生活
+http://182.35.112.46:4000/rtp/239.21.2.135:5002
+#EXTINF:-1 tvg-id="嘉祥综合" tvg-name="嘉祥综合" tvg-logo="https://www.yangfeiyue.cn/tv/嘉祥综合.png" group-title="卫视高清",嘉祥综合
+http://182.35.112.46:4000/rtp/239.21.2.84:5002
 #EXTINF:-1 tvg-id="东平综合" tvg-name="东平综合" tvg-logo="https://www.yangfeiyue.cn/tv/东平综合.png" group-title="卫视高清",东平综合
 http://182.35.112.46:4000/rtp/239.21.1.216:5002
 #EXTINF:-1 tvg-id="乳山综合" tvg-name="乳山综合" tvg-logo="https://www.yangfeiyue.cn/tv/乳山综合.png" group-title="卫视高清",乳山综合
