@@ -140,3 +140,77 @@ http://ipipip/rtp/239.21.2.21:5002
 http://ipipip/rtp/239.21.1.187:5002
 #EXTINF:-1 tvg-id="滨州综合" tvg-name="滨州综合" tvg-logo="https://live.fanmingming.com/tv/滨州综合.png" group-title="卫视高清",滨州综合
 http://ipipip/rtp/239.21.1.238:5002
+#EXTINF:-1 tvg-id="济宁高新" tvg-name="济宁高新" tvg-logo="https://live.fanmingming.com/tv/济宁高新.png" group-title="卫视高清",济宁高新
+http://ipipip/rtp/239.21.2.83:5002
+#EXTINF:-1 tvg-id="海洋频道" tvg-name="海洋频道" tvg-logo="https://live.fanmingming.com/tv/海洋频道.png" group-title="卫视高清",海洋频道
+http://ipipip/rtp/239.21.2.119:5002
+#EXTINF:-1 tvg-id="崂山综合" tvg-name="崂山综合" tvg-logo="https://live.fanmingming.com/tv/崂山综合.png" group-title="卫视高清",崂山综合
+http://ipipip/rtp/239.21.2.122:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",临清综合
+http://ipipip/rtp/239.21.2.123:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",临沂综合
+http://ipipip/rtp/239.21.2.130:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",历城综合
+http://ipipip/rtp/239.21.2.132:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",河东综合
+http://ipipip/rtp/239.21.2.136:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",岱岳综合
+http://ipipip/rtp/239.21.2.139:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",任城综合
+http://ipipip/rtp/239.21.2.143:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",任城生活
+http://ipipip/rtp/239.21.2.144:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌招远综合
+http://ipipip/rtp/239.21.2.145:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌龙口综合
+http://ipipip/rtp/239.21.2.146:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌临沭综合
+http://ipipip/rtp/239.21.2.154:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌CETV生态环境
+http://ipipip/rtp/239.21.2.160:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌肥城综合
+http://ipipip/rtp/239.21.2.161:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌澳门Macau
+http://ipipip/rtp/239.21.2.167:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌新加坡新闻
+http://ipipip/rtp/239.21.2.165:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌NHKWorld
+http://ipipip/rtp/239.21.2.170:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌商河综合
+http://ipipip/rtp/239.21.2.53:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌兰陵公共
+http://ipipip/rtp/239.21.2.63:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌海阳综合
+http://ipipip/rtp/239.21.2.64:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌海阳综艺
+http://ipipip/rtp/239.21.2.65:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌重温经典影视
+http://ipipip/rtp/239.21.2.77:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌潍坊科教文旅
+http://ipipip/rtp/239.21.2.89:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌东阿综合
+http://ipipip/rtp/239.21.2.61:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌沂水综合
+http://ipipip/rtp/239.21.2.79:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌沂水生活
+http://ipipip/rtp/239.21.2.80:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌黄岛生活
+http://ipipip/rtp/239.21.2.58:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌黄岛综合
+http://ipipip/rtp/239.21.2.57:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌胶州综合
+http://ipipip/rtp/239.21.2.60:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌莒县综合
+http://ipipip/rtp/239.21.1.236:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌高密综合
+http://ipipip/rtp/239.21.2.59:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌寿光蔬菜
+http://ipipip/rtp/239.21.1.218:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌蓬莱综合
+http://ipipip/rtp/239.21.2.56:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌长岛综合
+http://ipipip/rtp/239.21.2.52:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌淄川新闻
+http://ipipip/rtp/239.21.1.160:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌凤凰香港台
+http://ipipip/rtp/239.21.2.164:5002
