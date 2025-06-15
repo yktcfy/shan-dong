@@ -166,7 +166,7 @@ http://ipipip/rtp/239.21.2.145:5002
 http://ipipip/rtp/239.21.2.146:5002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌临沭综合
 http://ipipip/rtp/239.21.2.154:5002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌CETV生态环境
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌生态环境
 http://ipipip/rtp/239.21.2.160:5002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌肥城综合
 http://ipipip/rtp/239.21.2.161:5002
