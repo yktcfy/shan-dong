@@ -170,7 +170,7 @@ http://ipipip/rtp/239.21.2.154:5002
 http://ipipip/rtp/239.21.2.160:5002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌肥城综合
 http://ipipip/rtp/239.21.2.161:5002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌澳门Macau
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌澳视葡文
 http://ipipip/rtp/239.21.2.167:5002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",‌新加坡新闻
 http://ipipip/rtp/239.21.2.165:5002
