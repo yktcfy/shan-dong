@@ -26,8 +26,8 @@ jobs:
 
       - name: 获取源
         run: |
-          #cd $GITHUB_WORKSPACE
-          #python ./CaijiShandongip.py
+          cd $GITHUB_WORKSPACE
+          python ./CaijiShandongip.py
           
       - name: Install Dependencies
         run: |
