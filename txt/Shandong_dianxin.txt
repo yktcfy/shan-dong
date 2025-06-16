@@ -1,5 +1,7 @@
+#EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="本地高清",东森电影
+http://171.108.239.38:8181/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="本地高清",山东体育
-http://140.250.221.14:4022/rtp/239.21.1.141:5002/tsfile/live/1014_1.m3u8
+http://140.250.221.14:4022/rtp/239.21.1.141:5002
 #EXTINF:-1 tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png" group-title="本地高清",山东农科
 http://140.250.221.14:4022/rtp/239.21.1.183:5002
 #EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="本地高清",山东少儿
