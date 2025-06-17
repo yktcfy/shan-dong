@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="1" tvg-name="1" tvg-logo="https://live.fanmingming.com/tv/1.png" group-title="本地高清",‌海阳综合
+#EXTINF:-1 tvg-id="海阳综合" tvg-name="海阳综合" tvg-logo="https://live.fanmingming.com/tv/海阳综合.png" group-title="本地高清",‌1
 http://120.84.121.244:808/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="本地高清",山东体育
 http://140.250.221.14:4022/rtp/239.21.1.141:5002
