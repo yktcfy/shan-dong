@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="高清",‌www
+http://140.250.221.14:4022/rtp/239.21.2.77:5002
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="本地高清",山东体育
 http://140.250.221.14:4022/rtp/239.21.1.141:5002
 #EXTINF:-1 tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png" group-title="本地高清",山东农科
