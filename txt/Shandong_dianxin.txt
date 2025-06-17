@@ -210,8 +210,8 @@ http://140.250.221.14:4022/rtp/239.21.1.160:5002
 http://140.250.221.14:4022/rtp/239.21.2.164:5002
 #EXTINF:-1 tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://live.fanmingming.com/tv/澳视葡文.png" group-title="本地高清",‌澳视葡文 
 http://140.250.221.14:4022/rtp/239.21.2.167:5002
-#EXTINF:-1 tvg-id="新" tvg-name="新" tvg-logo="https://live.fanmingming.com/tv/新.png" group-title="本地高清",‌新
-http://140.250.221.14:4022/rtp/239.21.2.165:5002
+#EXTINF:-1 tvg-id="新加坡新闻" tvg-name="新加坡新闻" tvg-logo="https://live.fanmingming.com/tv/新加坡新闻.png" group-title="本地高清",‌新加坡新闻
+http://140.250.221.14:4022/rtp/239.21.2.165:9999
 #EXTINF:-1 tvg-id="NHKWorld" tvg-name="NHKWorld" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="本地高清",‌NHKWorld 
 http://140.250.221.14:4022/rtp/239.21.2.170:5002
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="本地高清",山东体育
