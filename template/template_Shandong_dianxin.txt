@@ -162,13 +162,13 @@ http://ipipip/rtp/239.21.2.139:5002
 http://ipipip/rtp/239.21.2.143:5002
 #EXTINF:-1 tvg-id="任城生活" tvg-name="任城生活" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/任城生活.png" group-title="山东电信",任城生活
 http://ipipip/rtp/239.21.2.144:5002
-#EXTINF:-1 tvg-id="‌招远综合" tvg-name="‌招远综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/‌招远综合.png" group-title="山东电信",‌招远综合
+#EXTINF:-1 tvg-id="‌招远综合" tvg-name="‌招远综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/招远综合.png" group-title="山东电信",‌招远综合
 http://ipipip/rtp/239.21.2.145:5002
 #EXTINF:-1 tvg-id="龙口综合" tvg-name="龙口综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/龙口综合.png" group-title="山东电信",‌龙口综合
 http://ipipip/rtp/239.21.2.146:5002
 #EXTINF:-1 tvg-id="临沭综合" tvg-name="临沭综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/临沭综合.png" group-title="山东电信",‌临沭综合
 http://ipipip/rtp/239.21.2.154:5002
-#EXTINF:-1 tvg-id="‌生态环境" tvg-name="‌生态环境" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/‌生态环境.png" group-title="山东电信",‌生态环境
+#EXTINF:-1 tvg-id="‌生态环境" tvg-name="‌生态环境" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/生态环境.png" group-title="山东电信",‌生态环境
 http://ipipip/rtp/239.21.2.160:5002
 #EXTINF:-1 tvg-id="肥城综合" tvg-name="肥城综合" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/肥城综合.png" group-title="山东电信",‌肥城综合
 http://ipipip/rtp/239.21.2.161:5002
